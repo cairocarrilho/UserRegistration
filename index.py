@@ -1,3 +1,4 @@
+'''Programa de cadastro de usuario'''
 nome=[]
 senha=[]
 endereco=[]
